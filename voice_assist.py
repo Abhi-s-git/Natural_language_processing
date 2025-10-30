@@ -51,3 +51,4 @@ def commands():
         print("ERROR CAPTURING VOICE...")
 
 commands()
+
